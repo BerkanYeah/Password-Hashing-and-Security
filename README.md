@@ -7,8 +7,8 @@
   <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square" alt="Contributions">
 </div>
 
-# Project Name
-Password Hashing and Security
+# Password Hashing and Security
+
 
 
 Bu proje, kullanıcı parolalarının güvenliğini artırmak amacıyla modern kriptografik hash algoritmalarının karşılaştırmalı analizini ve uygulamasını içerir. SHA-256, bcrypt gibi algoritmalar kullanılarak güvenli parola saklama yöntemleri geliştirilmiştir.
