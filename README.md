@@ -18,10 +18,10 @@ Bu proje, kullanıcı parolalarının güvenliğini artırmak amacıyla modern k
 
 ## Features / *Özellikler*
 
-*Feature 1*: Kullanıcı parolalarını SHA-256, bcrypt gibi algoritmalarla güvenli şekilde hashleme.  
-*Feature 2*: Kullanıcıdan alınan parolaların doğruluğunu hash karşılaştırması ile kontrol etme.  
-*Feature 3*: Salt ekleyerek rainbow table saldırılarına karşı dayanıklılık.  
-*Feature 4*: Basit ve anlaşılır Python betikleri ile kullanım kolaylığı.  
+*1*: Kullanıcı parolalarını SHA-256, bcrypt gibi algoritmalarla güvenli şekilde hashleme.  
+*2*: Kullanıcıdan alınan parolaların doğruluğunu hash karşılaştırması ile kontrol etme.  
+*3*: Salt ekleyerek rainbow table saldırılarına karşı dayanıklılık.  
+*4*: Basit ve anlaşılır Python betikleri ile kullanım kolaylığı.  
 
 ---
 
