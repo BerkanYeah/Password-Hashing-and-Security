@@ -129,7 +129,7 @@ Thanks to:
 
 ## Contact / *İletişim* 
 
-Project Maintainer: [Keyvan Arasteh/ISTINYE UNIVERSITESI] - [Keyvan.arasteh@istinye.edu.tr]  
+Project Maintainer: [Berkan/Istinye Universitesi] - [2320191060@stu.istinye.edu.tr]  
 Found a bug? Open an issue.  
 
 *Proje Sorumlusu: [Berkan/Istinye Universitesi] - [2320191060@stu.istinye.edu.tr]. Hata bulursanız bir sorun bildirin.*
