@@ -8,34 +8,30 @@
 </div>
 
 # Project Name
-*Proje Adı*
+Password Hashing and Security
 
 A brief, engaging description of your project.  
-*Projenizin kısa ve ilgi çekici bir açıklaması.*
+Bu proje, kullanıcı parolalarının güvenliğini artırmak amacıyla modern kriptografik hash algoritmalarının karşılaştırmalı analizini ve uygulamasını içerir. SHA-256, bcrypt gibi algoritmalar kullanılarak güvenli parola saklama yöntemleri geliştirilmiştir.
+
 
 ---
 
 ## Features / *Özellikler*
 
-- **Feature 1:** Description of the feature.  
-  *Özellik 1: Özelliğin açıklaması.*
-- **Feature 2:** Another cool thing it does.  
-  *Özellik 2: Yaptığı başka bir harika şey.*
-- **Feature 3:** One more for good measure.  
-  *Özellik 3: Ve bir tane daha.*
-- Add more as they develop.  
-  *Geliştikçe daha fazla ekleyin.*
+*Feature 1*: Kullanıcı parolalarını SHA-256, bcrypt gibi algoritmalarla güvenli şekilde hashleme.  
+*Feature 2*: Kullanıcıdan alınan parolaların doğruluğunu hash karşılaştırması ile kontrol etme.  
+*Feature 3*: Salt ekleyerek rainbow table saldırılarına karşı dayanıklılık.  
+*Feature 4*: Basit ve anlaşılır Python betikleri ile kullanım kolaylığı.  
 
 ---
 
+
+
 ## Team / *Ekip*
 
-- **219*****031** - Name Surname: *Role or Contribution*  
-  *Ad Soyad: Rolü veya Katkısı*
-- **Another Member** - Name Surname: *Role or Contribution*  
-  *Ad Soyad: Rolü veya Katkısı*
-- Add more members as needed.  
-  *Gerektiğinde daha fazla üye ekleyin.*
+- 2320191060 - Berkan Adar:  Proje sahibi, geliştirici, dokümantasyon.  
+ 
+  
 
 ---
 
@@ -50,9 +46,9 @@ See our plans in [ROADMAP.md](ROADMAP.md).
 
 | Topic / *Başlık*        | Link                                    | Description / *Açıklama*                        |
 |-------------------------|-----------------------------------------|------------------------------------------------|
-| Aircrack Deep Dive      | [researchs/aircrack.md](researchs/aircrack.md) | In-depth analysis of Aircrack-ng suite. / *Aircrack-ng paketinin derinlemesine analizi.* |
-| Example Research Topic  | [researchs/your-research-file.md](researchs/your-research-file.md) | Brief overview of this research. / *Bu araştırmanın kısa bir özeti.* |
-| Add More Research       | *Link to your other research files*     | *Description of the research*                  |
+| Password Hashing Techniques   | researchs/password_hashing.md       | Modern parola hashleme yöntemlerinin teknik incelemesi.     |
+| Rainbow Table Attacks         | researchs/rainbow_attacks.md        | Salt kullanımının önemi ve saldırı yöntemlerine karşı koruma.|
+| Add More Research             | researchs/your-file.md              | Ek araştırmalarınızı buraya ekleyebilirsiniz.               |
 
 ---
 
@@ -60,8 +56,9 @@ See our plans in [ROADMAP.md](ROADMAP.md).
 
 1. **Clone the Repository / *Depoyu Klonlayın***:  
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-   cd YOUR_REPO
+git clone https://github.com/YOUR_USERNAME/password-hashing-security.git
+cd password-hashing-security
+  
    ```
 
 2. **Set Up Virtual Environment / *Sanal Ortam Kurulumu*** (Recommended):  
