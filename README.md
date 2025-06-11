@@ -1,8 +1,12 @@
 <div align="center">
-  <img src="https://img.shields.io/github/languages/count/keyvanarasteh/Project?style=flat-square&color=blueviolet" alt="Language Count">
-  <img src="https://img.shields.io/github/languages/top/keyvanarasteh/Project?style=flat-square&color=1e90ff" alt="Top Language">
-  <img src="https://img.shields.io/github/last-commit/keyvanarasteh/Project?style=flat-square&color=ff69b4" alt="Last Commit">
-  <img src="https://img.shields.io/github/license/keyvanarasteh/Project?style=flat-square&color=yellow" alt="License">
+  <img src="https://img.shields.io/github/languages/count/BerkanYeah/
+Password-Hashing-and-Security?style=flat-square&color=blueviolet" alt="Language Count">
+  <img src="https://img.shields.io/github/languages/top/BerkanYeah/
+Password-Hashing-and-Security?style=flat-square&color=1e90ff" alt="Top Language">
+  <img src="https://img.shields.io/github/last-commit/BerkanYeah/
+Password-Hashing-and-Security?style=flat-square&color=ff69b4" alt="Last Commit">
+  <img src="https://img.shields.io/github/license/BerkanYeah/
+Password-Hashing-and-Security?style=flat-square&color=yellow" alt="License">
   <img src="https://img.shields.io/badge/Status-Active-green?style=flat-square" alt="Status">
   <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square" alt="Contributions">
 </div>
@@ -56,7 +60,7 @@ See our plans in [ROADMAP.md](ROADMAP.md).
 
 1. **Clone the Repository / *Depoyu Klonlayın***:  
    ```bash
-   git clone https://github.com/YOUR_USERNAME/password-hashing-security.git
+   git clone https://github.com/BerkanYeah/password-hashing-security.git
    cd password-hashing-security
   
    ```
@@ -120,9 +124,8 @@ Licensed under the [MIT License](LICENSE.md).
 ## Acknowledgements / *Teşekkürler* (Optional)
 
 Thanks to:  
-- Awesome Library: For enabling X.  
-- Inspiration Source.  
-- Special thanks to...  
+-Keyvan Arasteh (keyvan.arasteh@istinye.edu.tr)
+-Istinye University
 
 *Teşekkürler: Harika kütüphaneler ve ilham kaynakları için.*
 
@@ -130,11 +133,11 @@ Thanks to:
 
 ## Contact / *İletişim* (Optional)
 
-Project Maintainer: [Your Name/Org Name] - [your.email@example.com]  
+Project Maintainer: [Keyvan Arasteh/ISTINYE UNIVERSITESI] - [Keyvan.arasteh@istinye.edu.tr]  
 Found a bug? Open an issue.  
 
-*Proje Sorumlusu: [Adınız/Kuruluş Adınız] - [e-posta.adresiniz@ornek.com]. Hata bulursanız bir sorun bildirin.*
+*Proje Sorumlusu: [Berkan/Istinye Universitesi] - [2320191060@stu.istinye.edu.tr]. Hata bulursanız bir sorun bildirin.*
 
 ---
 
-*Replace placeholders (e.g., YOUR_USERNAME/YOUR_REPO) with your project details.*
+
