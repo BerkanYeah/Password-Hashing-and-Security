@@ -54,5 +54,5 @@ Bu belge, projenin geliştirme sürecinde takip edilecek adımları gösterir. H
 - **VPN**: Trafiği şifreler ve yerel manipülasyonları engeller.
 - **İzole Test Ortamı**: Üretim ağlarında test yapmayın.
 
-## Sonuç
-Bu yol haritası, Python ile DNS spoofing özelliklerini geliştirmeyi ve test etmeyi adım adım açıklamıştır. Etik ve yasal sorumluluklara bağlı kalarak, bu bilgileri siber güvenliği güçlendirmek için kullanmaya devam edin.
+
+
