@@ -56,8 +56,8 @@ See our plans in [ROADMAP.md](ROADMAP.md).
 
 1. **Clone the Repository / *Depoyu Klonlayın***:  
    ```bash
-git clone https://github.com/YOUR_USERNAME/password-hashing-security.git
-cd password-hashing-security
+   git clone https://github.com/YOUR_USERNAME/password-hashing-security.git
+   cd password-hashing-security
   
    ```
 
@@ -80,18 +80,17 @@ Run the project:
 *Projeyi çalıştırın:*
 
 ```bash
-python main.py --input your_file.pcap --output results.txt
+python hash_password.py
+python verify_password.py
 ```
 
-**Steps**:  
-1. Prepare input data (*explain data needed*).  
-2. Run the script with arguments (*explain key arguments*).  
-3. Check output (*explain where to find results*).  
+
 
 *Adımlar*:  
-1. Giriş verilerini hazırlayın (*ne tür verilere ihtiyaç duyulduğunu açıklayın*).  
-2. Betiği argümanlarla çalıştırın (*önemli argümanları açıklayın*).  
-3. Çıktıyı kontrol edin (*sonuçları nerede bulacağınızı açıklayın*).
+1. Giriş verisi olarak bir parola girin.
+2. hash_password.py betiği ile hashlenmiş parola alın.
+3. verify_password.py betiği ile doğrulama testini gerçekleştirin.
+4. Sonuçlar terminal çıktısı olarak gösterilicektir.
 
 ---
 
@@ -99,7 +98,7 @@ python main.py --input your_file.pcap --output results.txt
 
 We welcome contributions! To help:  
 1. Fork the repository.  
-2. Clone your fork (`git clone git@github.com:YOUR_USERNAME/YOUR_REPO.git`).  
+2. Clone your fork (`git clone git@github.com:BerkanYeah/Password-Hashing-and-Security.git`).  
 3. Create a branch (`git checkout -b feature/your-feature`).  
 4. Commit changes with clear messages.  
 5. Push to your fork (`git push origin feature/your-feature`).  
