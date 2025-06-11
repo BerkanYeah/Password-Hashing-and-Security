@@ -10,7 +10,7 @@
 # Project Name
 Password Hashing and Security
 
-A brief, engaging description of your project.  
+
 Bu proje, kullanıcı parolalarının güvenliğini artırmak amacıyla modern kriptografik hash algoritmalarının karşılaştırmalı analizini ve uygulamasını içerir. SHA-256, bcrypt gibi algoritmalar kullanılarak güvenli parola saklama yöntemleri geliştirilmiştir.
 
 
