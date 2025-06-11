@@ -1,12 +1,8 @@
 <div align="center">
-  <img src="https://img.shields.io/github/languages/count/BerkanYeah/
-Password-Hashing-and-Security?style=flat-square&color=blueviolet" alt="Language Count">
-  <img src="https://img.shields.io/github/languages/top/BerkanYeah/
-Password-Hashing-and-Security?style=flat-square&color=1e90ff" alt="Top Language">
-  <img src="https://img.shields.io/github/last-commit/BerkanYeah/
-Password-Hashing-and-Security?style=flat-square&color=ff69b4" alt="Last Commit">
-  <img src="https://img.shields.io/github/license/BerkanYeah/
-Password-Hashing-and-Security?style=flat-square&color=yellow" alt="License">
+  <img src="https://img.shields.io/github/languages/count/BerkanYeah/Password-Hashing-and-Security?style=flat-square&color=blueviolet" alt="Language Count">
+  <img src="https://img.shields.io/github/languages/top/BerkanYeah/Password-Hashing-and-Security?style=flat-square&color=1e90ff" alt="Top Language">
+  <img src="https://img.shields.io/github/last-commit/BerkanYeah/Password-Hashing-and-Security?style=flat-square&color=ff69b4" alt="Last Commit">
+  <img src="https://img.shields.io/github/license/BerkanYeah/Password-Hashing-and-Security?style=flat-square&color=yellow" alt="License">
   <img src="https://img.shields.io/badge/Status-Active-green?style=flat-square" alt="Status">
   <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square" alt="Contributions">
 </div>
@@ -121,7 +117,7 @@ Licensed under the [MIT License](LICENSE.md).
 
 ---
 
-## Acknowledgements / *Teşekkürler* (Optional)
+## Acknowledgements / *Teşekkürler* 
 
 Thanks to:  
 - Keyvan Arasteh (keyvan.arasteh@istinye.edu.tr)
@@ -131,7 +127,7 @@ Thanks to:
 
 ---
 
-## Contact / *İletişim* (Optional)
+## Contact / *İletişim* 
 
 Project Maintainer: [Keyvan Arasteh/ISTINYE UNIVERSITESI] - [Keyvan.arasteh@istinye.edu.tr]  
 Found a bug? Open an issue.  
