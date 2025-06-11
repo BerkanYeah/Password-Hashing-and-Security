@@ -69,4 +69,4 @@ python app.py
 (1) Hash oluştur
 
 (2) Doğruluğu kontrol et
-# Kodlamalari buraya yapicaz.
+
